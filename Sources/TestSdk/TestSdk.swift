@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-struct TestSdk {
+public struct MyTestSdk {
     func sayHello() {
         print("Hello world.")
     }
