@@ -6,7 +6,7 @@ public struct MyTestSdk {
         
     }
     
-    func sayHello() {
+    public static func sayHello() {
         print("Hello world.")
     }
 }
