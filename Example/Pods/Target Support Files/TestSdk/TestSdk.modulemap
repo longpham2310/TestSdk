@@ -1,0 +1,6 @@
+framework module TestSdk {
+  umbrella header "TestSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

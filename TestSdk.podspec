@@ -121,6 +121,8 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
+  # spec.ios.preserve_paths = 'Frameworks/*.framework'
+  # spec.ios.vendored_frameworks = "Frameworks/DemoFramework.framework"
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 

@@ -1,0 +1,21 @@
+PODS:
+  - TestSdk (0.0.1)
+
+DEPENDENCIES:
+  - TestSdk (from `https://github.com/longpham2310/TestSdk.git`)
+
+EXTERNAL SOURCES:
+  TestSdk:
+    :git: https://github.com/longpham2310/TestSdk.git
+
+CHECKOUT OPTIONS:
+  TestSdk:
+    :commit: 81ab312688867bb58ca3ca7ffe134f6d063c5c76
+    :git: https://github.com/longpham2310/TestSdk.git
+
+SPEC CHECKSUMS:
+  TestSdk: c95886d0cf7b8245922dfce093e8a2be6c555ea3
+
+PODFILE CHECKSUM: e870f43c236cb10fa946e99ad0c69da0eed719da
+
+COCOAPODS: 1.13.0
