@@ -182,7 +182,6 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftyBeaver/SwiftyBeaver.framework"
-  install_framework "${PODS_ROOT}/TestSdk/Frameworks/DemoFramework.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework"
   install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/TestSdk/self_ios_sdk.framework"
 fi
@@ -193,7 +192,6 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftyBeaver/SwiftyBeaver.framework"
-  install_framework "${PODS_ROOT}/TestSdk/Frameworks/DemoFramework.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework"
   install_framework "${PODS_XCFRAMEWORKS_BUILD_DIR}/TestSdk/self_ios_sdk.framework"
 fi

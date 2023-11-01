@@ -7,7 +7,7 @@
 
 import SwiftUI
 import TestSdk
-import DemoFramework
+import self_ios_sdk
 
 struct ContentView: View {
     var body: some View {
@@ -22,6 +22,8 @@ struct ContentView: View {
     
     func foo() {
         MyTestSdk.sayHello()
+        
+        SelfSDK.initialize()
     }
 }
 

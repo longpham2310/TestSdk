@@ -54,7 +54,7 @@ PODS:
   - nanopb/encode (2.30909.0)
   - PromisesObjC (2.3.1)
   - SwiftyBeaver (2.0.0)
-  - TestSdk (0.0.4):
+  - TestSdk (0.0.5):
     - GoogleMLKit/FaceDetection
     - SwiftyBeaver
 
@@ -83,7 +83,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   TestSdk:
-    :commit: 79a2241fe8b2f8d5c12ad5ff25b574decc4b7a12
+    :commit: 008fcb873e3bd399d8f99f704fbc7d1c69f61903
     :git: https://github.com/longpham2310/TestSdk.git
 
 SPEC CHECKSUMS:
@@ -100,7 +100,7 @@ SPEC CHECKSUMS:
   nanopb: b552cce312b6c8484180ef47159bc0f65a1f0431
   PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
   SwiftyBeaver: 014b0c12065026b731bac80305294f27d63e27f6
-  TestSdk: fe63e6c213dcd5ba7d9ffa60767a2a625e7cb11e
+  TestSdk: 7711730b5446bd9e03821f1474e5c2dc2369cb33
 
 PODFILE CHECKSUM: e870f43c236cb10fa946e99ad0c69da0eed719da
 
