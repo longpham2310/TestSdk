@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "TestSdk"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of TestSdk."
+  spec.summary      = "TestSdk is a simple swift library."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,8 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   TestSdk is a library for testing
+                   TestSdk is a library for testing. 
+                   It uses to test publish a binary to cocoapods
                    DESC
 
   spec.homepage     = "http://example.com/TestSdk"
@@ -64,8 +65,10 @@ Pod::Spec.new do |spec|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # spec.platform     = :ios
-  # spec.platform     = :ios, "5.0"
+  spec.platform     = :ios
+  spec.platform     = :ios, "15.0"
+  spec.compiler_flags   = "-Wall -Werror -Wextra"
+  spec.swift_version    = "5.9"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
@@ -92,8 +95,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "Sources/TestSdk/*.swift"
+  # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
