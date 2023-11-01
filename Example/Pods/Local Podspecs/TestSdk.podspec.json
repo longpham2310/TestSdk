@@ -1,6 +1,6 @@
 {
   "name": "TestSdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "TestSdk is a simple swift library.",
   "description": "TestSdk is a library for testing. \nIt uses to test publish a binary to cocoapods",
   "homepage": "http://example.com/TestSdk",
@@ -15,8 +15,11 @@
   "swift_versions": "5.9",
   "source": {
     "git": "https://github.com/longpham2310/TestSdk.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "source_files": "Sources/TestSdk/*.swift",
+  "ios": {
+    "vendored_frameworks": "Frameworks/DemoFramework.framework"
+  },
   "swift_version": "5.9"
 }

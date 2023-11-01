@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TestSdk"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "TestSdk is a simple swift library."
 
   # This description is used to generate tags and improve search results.
@@ -145,7 +145,7 @@ Pod::Spec.new do |spec|
   # end
 
   # spec.source                  = { :http => "https://github.com/AFNetworking/AFNetworking/releases/download/3.1.0/AFNetworking.framework.zip" }
-  spec.ios.vendored_frameworks = "Frameworks/DemoFramework.framework"
+  spec.ios.vendored_frameworks = 'Frameworks/DemoFramework.framework', 'Frameworks/self_ios_sdk.xcframework'
   # spec.subspec "ThreeDSecure" do |s|
   #   # s.source_files = "Sources/BraintreeThreeDSecure/**/*.{swift}"
   #   # s.dependency "Braintree/Card"
@@ -154,7 +154,7 @@ Pod::Spec.new do |spec|
   # end
   # spec.framework = "UIKit"
   # spec.requires_arc = true
-  # spec.vendored_frameworks = "AdamPodFramework-0.1.0/AdamPodTest.framework"
+  # spec.vendored_frameworks = "Frameworks/AdamPodFramework-0.1.0/AdamPodTest.framework"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

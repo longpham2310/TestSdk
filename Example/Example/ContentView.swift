@@ -7,6 +7,7 @@
 
 import SwiftUI
 import TestSdk
+import DemoFramework
 
 struct ContentView: View {
     var body: some View {
