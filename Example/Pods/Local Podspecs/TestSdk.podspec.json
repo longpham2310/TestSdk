@@ -1,6 +1,6 @@
 {
   "name": "TestSdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "TestSdk is a simple swift library.",
   "description": "TestSdk is a library for testing. \nIt uses to test publish a binary to cocoapods",
   "homepage": "http://example.com/TestSdk",
@@ -15,13 +15,22 @@
   "swift_versions": "5.9",
   "source": {
     "git": "https://github.com/longpham2310/TestSdk.git",
-    "tag": "0.0.3"
+    "tag": "0.0.4"
   },
   "source_files": "Sources/TestSdk/*.swift",
+  "static_framework": true,
   "ios": {
     "vendored_frameworks": [
       "Frameworks/DemoFramework.framework",
       "Frameworks/self_ios_sdk.xcframework"
+    ]
+  },
+  "dependencies": {
+    "GoogleMLKit/FaceDetection": [
+
+    ],
+    "SwiftyBeaver": [
+
     ]
   },
   "swift_version": "5.9"
