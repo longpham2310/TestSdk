@@ -1,5 +1,5 @@
 PODS:
-  - TestSdk (0.0.2)
+  - TestSdk (0.0.3)
 
 DEPENDENCIES:
   - TestSdk (from `https://github.com/longpham2310/TestSdk.git`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   TestSdk:
-    :commit: 5803f5138e619fc3c9d3530f7baf5f60991b8db4
+    :commit: 61880d2790590524cba0205c05da7f89eff1a6e4
     :git: https://github.com/longpham2310/TestSdk.git
 
 SPEC CHECKSUMS:
-  TestSdk: b0edb30c3c2ca7e80f9bb3af24a8baf864bc00d2
+  TestSdk: d1447fddcee202a4724e2989290b0e0592abd5e6
 
 PODFILE CHECKSUM: e870f43c236cb10fa946e99ad0c69da0eed719da
 
