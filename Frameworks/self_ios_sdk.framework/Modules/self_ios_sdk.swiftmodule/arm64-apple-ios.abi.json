@@ -4263,12 +4263,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "((self_ios_sdk.Attestation?) -> ())?",
+                "printedName": "((Foundation.Data, self_ios_sdk.Attestation?) -> ())?",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(self_ios_sdk.Attestation?) -> ()",
+                    "printedName": "(Foundation.Data, self_ios_sdk.Attestation?) -> ()",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -4277,55 +4277,14 @@
                       },
                       {
                         "kind": "TypeNominal",
-                        "name": "Optional",
-                        "printedName": "self_ios_sdk.Attestation?",
+                        "name": "Tuple",
+                        "printedName": "(Foundation.Data, self_ios_sdk.Attestation?)",
                         "children": [
                           {
                             "kind": "TypeNominal",
-                            "name": "Attestation",
-                            "printedName": "self_ios_sdk.Attestation",
-                            "usr": "s:12self_ios_sdk11AttestationC"
-                          }
-                        ],
-                        "usr": "s:Sq"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvp",
-            "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvp",
-            "moduleName": "self_ios_sdk",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "((self_ios_sdk.Attestation?) -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "(self_ios_sdk.Attestation?) -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
+                            "name": "Data",
+                            "printedName": "Foundation.Data",
+                            "usr": "s:10Foundation4DataV"
                           },
                           {
                             "kind": "TypeNominal",
@@ -4343,13 +4302,80 @@
                           }
                         ]
                       }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvp",
+            "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvp",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Foundation.Data, self_ios_sdk.Attestation?) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Foundation.Data, self_ios_sdk.Attestation?) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Foundation.Data, self_ios_sdk.Attestation?)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Data",
+                                "printedName": "Foundation.Data",
+                                "usr": "s:10Foundation4DataV"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "self_ios_sdk.Attestation?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "Attestation",
+                                    "printedName": "self_ios_sdk.Attestation",
+                                    "usr": "s:12self_ios_sdk11AttestationC"
+                                  }
+                                ],
+                                "usr": "s:Sq"
+                              }
+                            ]
+                          }
+                        ]
+                      }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvg",
-                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvg",
+                "usr": "s:12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvg",
+                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvg",
                 "moduleName": "self_ios_sdk",
                 "implicit": true,
                 "isOpen": true,
@@ -4368,12 +4394,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "((self_ios_sdk.Attestation?) -> ())?",
+                    "printedName": "((Foundation.Data, self_ios_sdk.Attestation?) -> ())?",
                     "children": [
                       {
                         "kind": "TypeFunc",
                         "name": "Function",
-                        "printedName": "(self_ios_sdk.Attestation?) -> ()",
+                        "printedName": "(Foundation.Data, self_ios_sdk.Attestation?) -> ()",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -4382,17 +4408,30 @@
                           },
                           {
                             "kind": "TypeNominal",
-                            "name": "Optional",
-                            "printedName": "self_ios_sdk.Attestation?",
+                            "name": "Tuple",
+                            "printedName": "(Foundation.Data, self_ios_sdk.Attestation?)",
                             "children": [
                               {
                                 "kind": "TypeNominal",
-                                "name": "Attestation",
-                                "printedName": "self_ios_sdk.Attestation",
-                                "usr": "s:12self_ios_sdk11AttestationC"
+                                "name": "Data",
+                                "printedName": "Foundation.Data",
+                                "usr": "s:10Foundation4DataV"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "self_ios_sdk.Attestation?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "Attestation",
+                                    "printedName": "self_ios_sdk.Attestation",
+                                    "usr": "s:12self_ios_sdk11AttestationC"
+                                  }
+                                ],
+                                "usr": "s:Sq"
                               }
-                            ],
-                            "usr": "s:Sq"
+                            ]
                           }
                         ]
                       }
@@ -4401,8 +4440,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvs",
-                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvs",
+                "usr": "s:12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvs",
+                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvs",
                 "moduleName": "self_ios_sdk",
                 "implicit": true,
                 "isOpen": true,
@@ -4420,8 +4459,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvM",
-                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResultyAA11AttestationCSgcSgvM",
+                "usr": "s:12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvM",
+                "mangledName": "$s12self_ios_sdk13LivenessCheckC8onResulty10Foundation4DataV_AA11AttestationCSgtcSgvM",
                 "moduleName": "self_ios_sdk",
                 "implicit": true,
                 "isOpen": true,
@@ -4469,7 +4508,7 @@
                 "kind": "TypeNominal",
                 "name": "Account",
                 "printedName": "self_ios_sdk.Account",
-                "usr": "s:12self_ios_sdk7AccountC"
+                "usr": "c:@M@self_ios_sdk@objc(cs)Account"
               },
               {
                 "kind": "TypeNominal",
@@ -5641,6 +5680,288 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "SELFIE_IMAGE_ONBOARDING",
+            "printedName": "SELFIE_IMAGE_ONBOARDING",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV23SELFIE_IMAGE_ONBOARDINGSSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV23SELFIE_IMAGE_ONBOARDINGSSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV23SELFIE_IMAGE_ONBOARDINGSSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV23SELFIE_IMAGE_ONBOARDINGSSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "SELFIE_IMAGE",
+            "printedName": "SELFIE_IMAGE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV12SELFIE_IMAGESSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV12SELFIE_IMAGESSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV12SELFIE_IMAGESSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV12SELFIE_IMAGESSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "DG1",
+            "printedName": "DG1",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV3DG1SSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3DG1SSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV3DG1SSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3DG1SSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "DG2",
+            "printedName": "DG2",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV3DG2SSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3DG2SSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV3DG2SSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3DG2SSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "SOD",
+            "printedName": "SOD",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV3SODSSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3SODSSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV3SODSSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3SODSSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "MRZ",
+            "printedName": "MRZ",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12self_ios_sdk16DocumentDataTypeV3MRZSSvpZ",
+            "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3MRZSSvpZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12self_ios_sdk16DocumentDataTypeV3MRZSSvgZ",
+                "mangledName": "$s12self_ios_sdk16DocumentDataTypeV3MRZSSvgZ",
+                "moduleName": "self_ios_sdk",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -5812,6 +6133,27 @@
         "kind": "Import",
         "name": "CryptoKit",
         "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "self_ios_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "SSSSwift",
+        "printedName": "SSSSwift",
+        "declKind": "Import",
+        "moduleName": "self_ios_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "self_mobile_kmp",
+        "printedName": "self_mobile_kmp",
+        "declKind": "Import",
+        "moduleName": "self_ios_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "ZIPFoundation",
+        "printedName": "ZIPFoundation",
         "declKind": "Import",
         "moduleName": "self_ios_sdk"
       },
@@ -6187,6 +6529,186 @@
             "mangledName": "$s12self_ios_sdk5UtilsV18getDeviceCheckInfo10completionyySS5keyId_SS17attestationBase64SS09challengeM0tSg_s5Error_pSgtc_tFZ",
             "moduleName": "self_ios_sdk",
             "static": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "divideBackupKeys",
+            "printedName": "divideBackupKeys(key:nPart:threshold:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.UInt8]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt8",
+                    "printedName": "Swift.UInt8",
+                    "usr": "s:s5UInt8V"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk5UtilsV16divideBackupKeys3key5nPart9thresholdSaySSGSays5UInt8VG_S2itKFZ",
+            "mangledName": "$s12self_ios_sdk5UtilsV16divideBackupKeys3key5nPart9thresholdSaySSGSays5UInt8VG_S2itKFZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "combineBackupKeys",
+            "printedName": "combineBackupKeys(part1:part2:part3:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.UInt8]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt8",
+                    "printedName": "Swift.UInt8",
+                    "usr": "s:s5UInt8V"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk5UtilsV17combineBackupKeys5part15part25part3Says5UInt8VGSS_S2StKFZ",
+            "mangledName": "$s12self_ios_sdk5UtilsV17combineBackupKeys5part15part25part3Says5UInt8VGSS_S2StKFZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "zip",
+            "printedName": "zip(backupDirURL:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk5UtilsV3zip12backupDirURL10Foundation0H0VSgAH_tFZ",
+            "mangledName": "$s12self_ios_sdk5UtilsV3zip12backupDirURL10Foundation0H0VSgAH_tFZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "unzip",
+            "printedName": "unzip(zipFileURL:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk5UtilsV5unzip10zipFileURL10Foundation0H0VSgAH_tFZ",
+            "mangledName": "$s12self_ios_sdk5UtilsV5unzip10zipFileURL10Foundation0H0VSgAH_tFZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
             "funcSelfKind": "NonMutating"
           },
           {
@@ -8984,6 +9506,13 @@
         "moduleName": "self_ios_sdk"
       },
       {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "self_ios_sdk"
+      },
+      {
         "kind": "TypeDecl",
         "name": "Account",
         "printedName": "Account",
@@ -9079,7 +9608,7 @@
                     "kind": "TypeNominal",
                     "name": "Account",
                     "printedName": "self_ios_sdk.Account",
-                    "usr": "s:12self_ios_sdk7AccountC"
+                    "usr": "c:@M@self_ios_sdk@objc(cs)Account"
                   }
                 ],
                 "declKind": "Func",
@@ -9121,7 +9650,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12self_ios_sdk7AccountC20appMovedToBackgroundyySo14NSNotificationCF",
+            "usr": "c:@M@self_ios_sdk@objc(cs)Account(im)appMovedToBackground:",
             "mangledName": "$s12self_ios_sdk7AccountC20appMovedToBackgroundyySo14NSNotificationCF",
             "moduleName": "self_ios_sdk",
             "isOpen": true,
@@ -9148,7 +9677,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12self_ios_sdk7AccountC20appMovedToForegroundyySo14NSNotificationCF",
+            "usr": "c:@M@self_ios_sdk@objc(cs)Account(im)appMovedToForeground:",
             "mangledName": "$s12self_ios_sdk7AccountC20appMovedToForegroundyySo14NSNotificationCF",
             "moduleName": "self_ios_sdk",
             "isOpen": true,
@@ -9159,8 +9688,8 @@
           },
           {
             "kind": "Function",
-            "name": "saveSelfieData",
-            "printedName": "saveSelfieData(type:selfieData:)",
+            "name": "getSelfieAttestation",
+            "printedName": "getSelfieAttestation(selfieData:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -9178,20 +9707,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
                 "name": "Data",
                 "printedName": "Foundation.Data",
                 "usr": "s:10Foundation4DataV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12self_ios_sdk7AccountC14saveSelfieData4type06selfieG0AA11AttestationCSgSS_10Foundation0G0VtF",
-            "mangledName": "$s12self_ios_sdk7AccountC14saveSelfieData4type06selfieG0AA11AttestationCSgSS_10Foundation0G0VtF",
+            "usr": "s:12self_ios_sdk7AccountC20getSelfieAttestation10selfieDataAA0G0CSg10Foundation0I0V_tF",
+            "mangledName": "$s12self_ios_sdk7AccountC20getSelfieAttestation10selfieDataAA0G0CSg10Foundation0I0V_tF",
             "moduleName": "self_ios_sdk",
             "isOpen": true,
             "declAttributes": [
@@ -9343,7 +9866,7 @@
           {
             "kind": "Function",
             "name": "register",
-            "printedName": "register(attestation:)",
+            "printedName": "register(selfieImage:attestation:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -9361,14 +9884,20 @@
               },
               {
                 "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
                 "name": "Attestation",
                 "printedName": "self_ios_sdk.Attestation",
                 "usr": "s:12self_ios_sdk11AttestationC"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12self_ios_sdk7AccountC8register11attestationSSSgAA11AttestationC_tYaKF",
-            "mangledName": "$s12self_ios_sdk7AccountC8register11attestationSSSgAA11AttestationC_tYaKF",
+            "usr": "s:12self_ios_sdk7AccountC8register11selfieImage11attestationSSSg10Foundation4DataV_AA11AttestationCtYaKF",
+            "mangledName": "$s12self_ios_sdk7AccountC8register11selfieImage11attestationSSSg10Foundation4DataV_AA11AttestationCtYaKF",
             "moduleName": "self_ios_sdk",
             "isOpen": true,
             "declAttributes": [
@@ -9419,6 +9948,43 @@
               "AccessControl",
               "RawDocComment"
             ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "verify",
+            "printedName": "verify(selfieImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[self_ios_sdk.Attestation]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Attestation",
+                    "printedName": "self_ios_sdk.Attestation",
+                    "usr": "s:12self_ios_sdk11AttestationC"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk7AccountC6verify11selfieImageSayAA11AttestationCG10Foundation4DataV_tYaKF",
+            "mangledName": "$s12self_ios_sdk7AccountC6verify11selfieImageSayAA11AttestationCG10Foundation4DataV_tYaKF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -9868,6 +10434,71 @@
           },
           {
             "kind": "Function",
+            "name": "backup",
+            "printedName": "backup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk7AccountC6backup10Foundation3URLVSgyYaF",
+            "mangledName": "$s12self_ios_sdk7AccountC6backup10Foundation3URLVSgyYaF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "restore",
+            "printedName": "restore(backupFile:selfieImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk7AccountC7restore10backupFile11selfieImagey10Foundation3URLV_AG4DataVtYaF",
+            "mangledName": "$s12self_ios_sdk7AccountC7restore10backupFile11selfieImagey10Foundation3URLV_AG4DataVtYaF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "close",
             "printedName": "close()",
             "children": [
@@ -9888,18 +10519,245 @@
             ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "location",
+            "printedName": "location()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[self_ios_sdk.Attestation]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Attestation",
+                    "printedName": "self_ios_sdk.Attestation",
+                    "usr": "s:12self_ios_sdk11AttestationC"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12self_ios_sdk7AccountC8locationSayAA11AttestationCGyYaKF",
+            "mangledName": "$s12self_ios_sdk7AccountC8locationSayAA11AttestationCGyYaKF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Account",
+                "printedName": "self_ios_sdk.Account",
+                "usr": "c:@M@self_ios_sdk@objc(cs)Account"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@self_ios_sdk@objc(cs)Account(im)init",
+            "mangledName": "$s12self_ios_sdk7AccountCACycfc",
+            "moduleName": "self_ios_sdk",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "locationManagerDidChangeAuthorization",
+            "printedName": "locationManagerDidChangeAuthorization(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationManager",
+                "printedName": "CoreLocation.CLLocationManager",
+                "usr": "c:objc(cs)CLLocationManager"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@self_ios_sdk@objc(cs)Account(im)locationManagerDidChangeAuthorization:",
+            "mangledName": "$s12self_ios_sdk7AccountC37locationManagerDidChangeAuthorizationyySo010CLLocationF0CF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "objc_name": "locationManagerDidChangeAuthorization:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "locationManager",
+            "printedName": "locationManager(_:didUpdateLocations:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationManager",
+                "printedName": "CoreLocation.CLLocationManager",
+                "usr": "c:objc(cs)CLLocationManager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[CoreLocation.CLLocation]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CLLocation",
+                    "printedName": "CoreLocation.CLLocation",
+                    "usr": "c:objc(cs)CLLocation"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@self_ios_sdk@objc(cs)Account(im)locationManager:didUpdateLocations:",
+            "mangledName": "$s12self_ios_sdk7AccountC15locationManager_18didUpdateLocationsySo010CLLocationF0C_SaySo0J0CGtF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "objc_name": "locationManager:didUpdateLocations:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "locationManager",
+            "printedName": "locationManager(_:didFailWithError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationManager",
+                "printedName": "CoreLocation.CLLocationManager",
+                "usr": "c:objc(cs)CLLocationManager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@self_ios_sdk@objc(cs)Account(im)locationManager:didFailWithError:",
+            "mangledName": "$s12self_ios_sdk7AccountC15locationManager_16didFailWithErrorySo010CLLocationF0C_s0J0_ptF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "objc_name": "locationManager:didFailWithError:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
-        "usr": "s:12self_ios_sdk7AccountC",
+        "usr": "c:@M@self_ios_sdk@objc(cs)Account",
         "mangledName": "$s12self_ios_sdk7AccountC",
         "moduleName": "self_ios_sdk",
         "isOpen": true,
         "declAttributes": [
           "AccessControl",
-          "RawDocComment"
+          "RawDocComment",
+          "ObjC"
         ],
-        "hasMissingDesignatedInitializers": true
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -10504,10 +11362,7 @@
         "name": "self_mobile_kmp",
         "printedName": "self_mobile_kmp",
         "declKind": "Import",
-        "moduleName": "self_ios_sdk",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "self_ios_sdk"
       },
       {
         "kind": "Import",
@@ -10520,6 +11375,13 @@
         "kind": "Import",
         "name": "CryptoKit",
         "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "self_ios_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "SSSSwift",
+        "printedName": "SSSSwift",
         "declKind": "Import",
         "moduleName": "self_ios_sdk"
       },
@@ -10700,6 +11562,57 @@
           },
           {
             "kind": "Var",
+            "name": "PermissionRequired",
+            "printedName": "PermissionRequired",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(self_ios_sdk.SelfError.Type) -> (Swift.String) -> self_ios_sdk.SelfError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> self_ios_sdk.SelfError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SelfError",
+                        "printedName": "self_ios_sdk.SelfError",
+                        "usr": "s:12self_ios_sdk9SelfErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "self_ios_sdk.SelfError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SelfError",
+                        "printedName": "self_ios_sdk.SelfError",
+                        "usr": "s:12self_ios_sdk9SelfErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12self_ios_sdk9SelfErrorO18PermissionRequiredyACSScACmF",
+            "mangledName": "$s12self_ios_sdk9SelfErrorO18PermissionRequiredyACSScACmF",
+            "moduleName": "self_ios_sdk",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
             "name": "UnknownError",
             "printedName": "UnknownError",
             "children": [
@@ -10747,7 +11660,7 @@
             "usr": "s:12self_ios_sdk9SelfErrorO07UnknownE0yACSScACmF",
             "mangledName": "$s12self_ios_sdk9SelfErrorO07UnknownE0yACSScACmF",
             "moduleName": "self_ios_sdk",
-            "fixedbinaryorder": 2
+            "fixedbinaryorder": 3
           }
         ],
         "declKind": "Enum",
@@ -11703,6 +12616,150 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "UIImage",
+        "printedName": "UIImage",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "imageRotatedByDegrees",
+            "printedName": "imageRotatedByDegrees(degrees:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC12self_ios_sdkE21imageRotatedByDegrees7degreesAB14CoreFoundation7CGFloatV_tF",
+            "mangledName": "$sSo7UIImageC12self_ios_sdkE21imageRotatedByDegrees7degreesAB12CoreGraphics7CGFloatV_tF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fixedOrientation",
+            "printedName": "fixedOrientation()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC12self_ios_sdkE16fixedOrientationAByF",
+            "mangledName": "$sSo7UIImageC12self_ios_sdkE16fixedOrientationAByF",
+            "moduleName": "self_ios_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIImage",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIImage",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByImageLiteral",
+            "printedName": "_ExpressibleByImageLiteral",
+            "usr": "s:s26_ExpressibleByImageLiteralP",
+            "mangledName": "$ss26_ExpressibleByImageLiteralP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "Data",
         "printedName": "Data",
         "children": [
@@ -12419,6 +13476,43 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "from",
+            "printedName": "from(data:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KotlinByteArray",
+                "printedName": "self_mobile_kmp.KotlinByteArray",
+                "usr": "c:objc(cs)Self_mobile_kmpKotlinByteArray"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.UInt8]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt8",
+                    "printedName": "Swift.UInt8",
+                    "usr": "s:s5UInt8V"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So30Self_mobile_kmpKotlinByteArrayC12self_ios_sdkE4from4dataABSays5UInt8VG_tFZ",
+            "mangledName": "$sSo30Self_mobile_kmpKotlinByteArrayC12self_ios_sdkE4from4dataABSays5UInt8VG_tFZ",
+            "moduleName": "self_ios_sdk",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -12719,84 +13813,140 @@
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 1655,
+      "offset": 1466,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1499,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1536,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1573,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1610,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "Array",
+      "offset": 1651,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "Array",
+      "offset": 1689,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2306,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 1697,
+      "offset": 2348,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 1739,
+      "offset": 2390,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 1781,
+      "offset": 2432,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "Dictionary",
-      "offset": 1842,
+      "offset": 2493,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "IntegerLiteral",
-      "offset": 1923,
+      "offset": 2574,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "IntegerLiteral",
-      "offset": 1966,
+      "offset": 2617,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
+      "kind": "Array",
+      "offset": 2683,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 2005,
+      "offset": 2723,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 2053,
+      "offset": 2771,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 2185,
+      "offset": 2903,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 2690,
+      "offset": 3414,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/LivenessCheck.swift",
       "kind": "BooleanLiteral",
-      "offset": 2924,
+      "offset": 3648,
       "length": 5,
       "value": "false"
     },
@@ -12871,95 +14021,151 @@
       "value": "\"document_image_back\""
     },
     {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1589,
+      "length": 25,
+      "value": "\"selfie_image_onboarding\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1652,
+      "length": 14,
+      "value": "\"selfie_image\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1695,
+      "length": 5,
+      "value": "\"dg1\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1729,
+      "length": 5,
+      "value": "\"dg2\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1763,
+      "length": 5,
+      "value": "\"sod\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 1797,
+      "length": 5,
+      "value": "\"mrz\""
+    },
+    {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 235,
+      "offset": 295,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 272,
+      "offset": 332,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 309,
+      "offset": 369,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 346,
+      "offset": 406,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 235,
+      "offset": 295,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 272,
+      "offset": 332,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 309,
+      "offset": 369,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 346,
+      "offset": 406,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 235,
+      "offset": 295,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 272,
+      "offset": 332,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 309,
+      "offset": 369,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 346,
+      "offset": 406,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1167,
+      "offset": 1227,
       "length": 1,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7162,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Utils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7182,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Models\/Document.swift",
@@ -13002,6 +14208,13 @@
       "offset": 143,
       "length": 10,
       "value": "\"self_ios_sdk.Attachment\""
+    },
+    {
+      "filePath": "\/Users\/longpham\/aldgate-ventures\/projects\/self-mobile-embedded\/self-ios-sdk\/self-ios-sdk\/self-ios-sdk\/Models\/Account.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 7,
+      "value": "\"self_ios_sdk.Account\""
     }
   ]
 }

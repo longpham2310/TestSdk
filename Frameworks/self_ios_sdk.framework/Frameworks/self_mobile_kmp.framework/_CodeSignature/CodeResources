@@ -26,15 +26,15 @@
 		</data>
 		<key>Frameworks/libomemo.framework/Info.plist</key>
 		<data>
-		mUldhzC9Ze8JWSk40v1OSd/TGH8=
+		zgnzrPBuHVeuw7lanNz8tJDBWVo=
 		</data>
 		<key>Frameworks/libomemo.framework/_CodeSignature/CodeResources</key>
 		<data>
-		A3+CNLUc96DRxsCUFX/XRMufwME=
+		KoELbjfSzRCuL+d5ZjbPANgOgis=
 		</data>
 		<key>Frameworks/libomemo.framework/libomemo</key>
 		<data>
-		xPxZJVtbFHoEOTwC80c8F+rvnYk=
+		lJTM0+v82BcfI0Ea2BK7fBwAX0k=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -82,21 +82,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSgHqCOJka4MPpinEWWI3YWFjtLsPXm6BKKjockID08=
+			VWlYrBxdl/iclWiCaOhtCMbQlTb5vyz3XQQGTA/RdZk=
 			</data>
 		</dict>
 		<key>Frameworks/libomemo.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PR/+2Hne8SrOEKMyLkookH3K+K8DuO5k2KMsInw1KyE=
+			kWtgfLW9ifI2Fp0FgsrJPCjYIOG8qhT/ft3aTgzRub4=
 			</data>
 		</dict>
 		<key>Frameworks/libomemo.framework/libomemo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z+wT786PuMPBYXRdfj9i6el5NKRF1S1WoMG3af9p87g=
+			09abBpdzy8PKGgdkyXsPOHE2y4jbGsITfeofpEikPNc=
 			</data>
 		</dict>
 	</dict>
