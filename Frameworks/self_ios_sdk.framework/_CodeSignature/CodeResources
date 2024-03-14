@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.def</key>
-		<data>
-		4jgTzTwxGH40u18vjn6R7rdvJlc=
-		</data>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/DemoLib</key>
-		<data>
-		hXAvcWFzYNkDPFSRvV3UHOEZQb0=
-		</data>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/Info.plist</key>
-		<data>
-		maiXfRqxqE5e/1yHWE+9J04HzxU=
-		</data>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/_CodeSignature/CodeResources</key>
-		<data>
-		fkevljrKmE1QwnVOLsTrYB4J0xs=
-		</data>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.def</key>
 		<data>
 		EbKuoc1OMkkI1265Ruvg43pDs5Q=
@@ -42,11 +26,11 @@
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+38aT4LCcbfQGRZYQHK0tBDJ+RY=
+		NT2AvyIs8Rj9S3/XDVwTivBKqko=
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<data>
-		3zauR4Ut0mfNNrEFdc4o5HEoxy4=
+		uoQucIu55MC5XWmBWGrOc2bHBXA=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -134,39 +118,11 @@
 		</data>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qMvKXSAKV7xE+iXIcchXovjHdZg=
+		FVVydfl4eFy5mqZqxmSB4E3buE0=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.def</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6D9rsmvl+kyr4oG+27t3lEIPk+C0JxdfTXHEM+peiqU=
-			</data>
-		</dict>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/DemoLib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8oyotpQjjssQuP0hNOZzmmKhCePa362v6VlWtGuB50Y=
-			</data>
-		</dict>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZmeJjHLPjpHxw2LUrljB+Az9jitXozV/rMgCSBd7jxY=
-			</data>
-		</dict>
-		<key>Frameworks/self_mobile_kmp.framework/Frameworks/DemoLib.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H74wk7iJuz73VuzoXxIrab/sIjV8UxTWYjQzv0Qu+fw=
-			</data>
-		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.def</key>
 		<dict>
 			<key>hash2</key>
@@ -206,14 +162,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0XC0z9h02XylJTT3TF21pCuVfcVH53R4W57hiXQZ9kQ=
+			IJlU5grZIN9ua8mKHe7ZzkoTz8vkRxil6rIDMRYUwdI=
 			</data>
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wzzIetgOGTqDFROFz9dko+jS4nPzmT4JqGTQ29xviko=
+			+v0IFCA8gIkZYYL8nnnnlmOswhVfiw1rfYRm+wyN0ZU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -360,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			It3mUo+blpXvYbj5wHYz4Z0rdk/j9SCBVrKZ94mhYLE=
+			o+Y7fyebLmJ2ZE4zcLliqr233oEfmPnp0CtGE3/Lk5I=
 			</data>
 		</dict>
 	</dict>
