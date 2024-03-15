@@ -225,8 +225,8 @@
 			);
 			mainGroup = 63C835FA2AF20D5B0013CF4D;
 			packageReferences = (
-				63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift.git" */,
-				63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation.git" */,
+				63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift" */,
+				63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation" */,
 			);
 			productRefGroup = 63C836042AF20D5B0013CF4D /* Products */;
 			projectDirPath = "";
@@ -375,7 +375,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -412,7 +412,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -648,7 +648,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift.git" */ = {
+		63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/joinself/sss-swift.git";
 			requirement = {
@@ -656,7 +656,7 @@
 				kind = branch;
 			};
 		};
-		63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation.git" */ = {
+		63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/weichsel/ZIPFoundation.git";
 			requirement = {
@@ -669,12 +669,12 @@
 /* Begin XCSwiftPackageProductDependency section */
 		63FB45E42BA04CA200BB7EBB /* SSSSwift */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift.git" */;
+			package = 63FB45E32BA04CA200BB7EBB /* XCRemoteSwiftPackageReference "sss-swift" */;
 			productName = SSSSwift;
 		};
 		63FB45F62BA29F8F00BB7EBB /* ZIPFoundation */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation.git" */;
+			package = 63FB45F52BA29F8F00BB7EBB /* XCRemoteSwiftPackageReference "ZIPFoundation" */;
 			productName = ZIPFoundation;
 		};
 /* End XCSwiftPackageProductDependency section */
