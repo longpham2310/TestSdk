@@ -8,8 +8,12 @@
 import Foundation
 import ZIPFoundation
 
-struct DemoSdk {
-    func hello() {
-        print("Hello")
+public struct DemoSdk {
+    public init () {
+        
+    }
+    
+    public static func sayHello() {
+        print("Hello world.")
     }
 }

@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TestSdk"
-  spec.version      = "0.0.22"
+  spec.version      = "0.0.23"
   spec.summary      = "TestSdk is a simple swift library."
 
   # This description is used to generate tags and improve search results.
@@ -146,9 +146,10 @@ Pod::Spec.new do |spec|
 
   # spec.source                  = { :http => "https://github.com/AFNetworking/AFNetworking/releases/download/3.1.0/AFNetworking.framework.zip" }
   spec.static_framework = true
-  spec.dependency 'ZIPFoundation'
-  spec.ios.vendored_frameworks = 'Frameworks/self_mobile_kmp.framework', 'Frameworks/DemoSdk.framework'
+  spec.ios.vendored_frameworks = 'Frameworks/self_ios_sdk.framework', 'Frameworks/self_mobile_kmp.framework', 'Frameworks/SelfUI.framework'
   spec.dependency 'GoogleMLKit/FaceDetection'
+  spec.dependency 'NFCPassportReader', '~> 2.0.2'
+  # spec.dependency 'FLAnimatedImage'
   # spec.dependency 'SwiftyBeaver'
   # spec.subspec "ThreeDSecure" do |s|
   #   # s.source_files = "Sources/BraintreeThreeDSecure/**/*.{swift}"

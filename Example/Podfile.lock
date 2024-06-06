@@ -57,8 +57,9 @@ PODS:
   - nanopb/decode (2.30910.0)
   - nanopb/encode (2.30910.0)
   - PromisesObjC (2.4.0)
-  - TestSdk (0.0.18):
+  - TestSdk (0.0.21):
     - GoogleMLKit/FaceDetection
+    - ZIPFoundation
   - ZIPFoundation (0.9.18)
 
 DEPENDENCIES:
@@ -87,7 +88,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   TestSdk:
-    :commit: 4a86b9ffb9eb7e6eae38fbd7cbcf2134637e1617
+    :commit: c2271a45da99322de4472393504ea93cefd0d570
     :git: https://github.com/longpham2310/TestSdk.git
 
 SPEC CHECKSUMS:
@@ -103,7 +104,7 @@ SPEC CHECKSUMS:
   MLKitVision: 90922bca854014a856f8b649d1f1f04f63fd9c79
   nanopb: 438bc412db1928dac798aa6fd75726007be04262
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
-  TestSdk: 7981b7f6b90f90dbe82e9acc3f75c2bd991690f7
+  TestSdk: c44e63a3a5d729c8ff46d9ee41c3e80bfa0db462
   ZIPFoundation: fa9ae5af13b7cf168245f24d1c672a4fb972e37f
 
 PODFILE CHECKSUM: 903bb64395e0851e9adbfff60780554b99de03bf
