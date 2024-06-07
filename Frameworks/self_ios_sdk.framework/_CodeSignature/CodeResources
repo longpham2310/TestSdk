@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		JLWcpfYSkecj3Q3rmMs7+MjkRo8=
+		HVjIRVrDtiOG9VLv7KO432BttMY=
 		</data>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<data>
-		oHZ/dfoz7kWgtTacrffW8moZ9Ws=
+		0uSWZkEdxHdpdesoTviEZjCtiP8=
 		</data>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<data>
-		v8ZWnvThihi88XPn7lqiDTjLNIM=
+		tYOC+5Jx1x+4qG6sekWUOUFFGhs=
 		</data>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -119,7 +119,7 @@
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<data>
-		NwFgFF1iNh45iTlciCAerpMH4cI=
+		0xhAZHedkBVRvUgezfxHEX61BDs=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -210,6 +210,10 @@
 	<dict>
 		<key>Frameworks/SelfUI.framework/Assets.car</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			allndlvDY0+srGwXS/w16/CuUwg=
+			</data>
 			<key>hash2</key>
 			<data>
 			iTw4fsc3Ksr+CH23UHKlTaLlw8vVPymog5UJp0F7nxY=
@@ -217,6 +221,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Black.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ya1YdyfL3hlUPo8p2SJ6aYSGsU4=
+			</data>
 			<key>hash2</key>
 			<data>
 			PB8gSrH+z+/9Ol3JRXhpN3TqBFFN0XWo7TylNRtxElE=
@@ -224,6 +232,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Bold.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			RewN/B8lzLiHRlIMysVFkA7Mfjs=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZGDDqT+ihVXADLCjn5WzuBGpM5c9g7BWhVrtK8ms7N4=
@@ -231,6 +243,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Italic.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			YuAKyihCxEx7zfIa8CDEvjqrgOs=
+			</data>
 			<key>hash2</key>
 			<data>
 			rEYH5MLdbBoC/sw1TSjxEkNZ38Id/r6/gBDub8A+7Hc=
@@ -238,6 +254,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Light.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			IWTnEtvxKbEAH/sBcniCbVlpxXk=
+			</data>
 			<key>hash2</key>
 			<data>
 			9eh1EikQkIUf1jvRnv7ayJOtp3NqxxMfx0wrpw/1+O8=
@@ -245,6 +265,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Medium.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			U1f2YG2BEif6L0d94xeKtQMMYT8=
+			</data>
 			<key>hash2</key>
 			<data>
 			+3ZIpvrabtA38bIuUBrBccDZ8fkvKM8DLuGguD6h2uA=
@@ -252,6 +276,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Regular.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			p9ZKA8Hc5RB+GiD014ffIyuFqXE=
+			</data>
 			<key>hash2</key>
 			<data>
 			zZD2hWy3zQmbiBtjcLMwcQqL+dCCsB+5/5Sd8BAFvYc=
@@ -259,6 +287,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-SemiBold.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OlqUU+krBTWCYurFbOmoJOC651w=
+			</data>
 			<key>hash2</key>
 			<data>
 			TnPHxJJhHzbePuxSDIMLuP2XC+ft/6ZwrlUxGZXbhWI=
@@ -266,6 +298,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Headers/SelfUI-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Bk7YQ73MUnMlL2jBZsub0A/jNDg=
+			</data>
 			<key>hash2</key>
 			<data>
 			w+qlVB/LrdNGTokdjRde1C+6OKWzl1JdUb8Vt/99dGk=
@@ -273,6 +309,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Headers/SelfUI.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			cxSLY3fKrp7r5ywwatbVQQVu/j8=
+			</data>
 			<key>hash2</key>
 			<data>
 			95mFctR771SAUhRW6+FYdoly6cM15eiKg/fKTaa4q40=
@@ -280,6 +320,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			a49dkH4fCfMAd+nX/5LHhDw3tB8=
+			</data>
 			<key>hash2</key>
 			<data>
 			2gtxtAveCTmWXJUL0S+Ofi6Z1GtJlHDC3qz7i9Ow5pk=
@@ -287,13 +331,21 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			HVjIRVrDtiOG9VLv7KO432BttMY=
+			</data>
 			<key>hash2</key>
 			<data>
-			rsFW7tn4300aysjRQGYRCPtUSxTmwJ2wIhpUkpD9GYk=
+			Rr0RfRY8OKo1GFWCc6siVoEduscp6ngIhor0q5Lrnjo=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			</data>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
@@ -301,6 +353,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			EtXoPMe1wmBMImJb0CD1XAtIyDo=
+			</data>
 			<key>hash2</key>
 			<data>
 			CveGclfRv/O5rUXyxpVjcJjXTsbaTO6Tpz1CDhKGh0w=
@@ -308,6 +364,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fR7IFXIAvt1EYWlahNTeIgzrq+Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			A+5OAiQT1w4QSIv9Pi5lgLsLyf2hvOI65y27UJzIuCw=
@@ -315,6 +375,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			brg6CDeLvvzxEfAZ7c4Ik/5/XSA=
+			</data>
 			<key>hash2</key>
 			<data>
 			0Gcdzo05UxLSoHLYiXFw4tf5vuptaRTIvoGBY98eBrw=
@@ -322,20 +386,32 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0uSWZkEdxHdpdesoTviEZjCtiP8=
+			</data>
 			<key>hash2</key>
 			<data>
-			ib2W1knXD5rz1/M3c4zWrZpfcSN/Q9o7v6GeeCJ2mqk=
+			vv8/AkNloi4Exk0p/4vSBsv0jpCWYeMalNjKvPrdUXA=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tYOC+5Jx1x+4qG6sekWUOUFFGhs=
+			</data>
 			<key>hash2</key>
 			<data>
-			eWAesBek8NU2ajdd9nTJJBKIAkZxnVAf+W0XxQ0OYnI=
+			/c5XBxVqSmIAViITbOlSPi3zw9Rc0oax/PpoYnurtNg=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			7/++SzZaao/z7OhWYl0SKlw2MQc=
+			</data>
 			<key>hash2</key>
 			<data>
 			49cmoJo2TAoaAbrIg+H3DxMj538AjAz6bDGabhRD8cg=
@@ -345,6 +421,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/passport_instructions.gif</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			sGVKH+e0gFypDSl5WrS8mNxaa7k=
+			</data>
 			<key>hash2</key>
 			<data>
 			Jz5k86wKORZJcIrWp1r7dB5LdKUULP6hprLXFAtxfHo=
@@ -352,6 +432,10 @@
 		</dict>
 		<key>Frameworks/SelfUI.framework/start_scan.gif</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			m8nxyShKS6ih0G/3xYd3cfYYloA=
+			</data>
 			<key>hash2</key>
 			<data>
 			cLLiuG+D/TVxxat371+tVWK0maP57E9lNf/yXCT28PQ=
@@ -359,6 +443,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.def</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			EbKuoc1OMkkI1265Ruvg43pDs5Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			GnWwZdj3Z9f07w9zB8Ir1pc2558T7QskQ4WX+qGPSHk=
@@ -366,6 +454,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.framework/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			zgnzrPBuHVeuw7lanNz8tJDBWVo=
+			</data>
 			<key>hash2</key>
 			<data>
 			VWlYrBxdl/iclWiCaOhtCMbQlTb5vyz3XQQGTA/RdZk=
@@ -373,6 +465,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.framework/_CodeSignature/CodeResources</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KoELbjfSzRCuL+d5ZjbPANgOgis=
+			</data>
 			<key>hash2</key>
 			<data>
 			kWtgfLW9ifI2Fp0FgsrJPCjYIOG8qhT/ft3aTgzRub4=
@@ -380,6 +476,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Frameworks/libomemo.framework/libomemo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			lJTM0+v82BcfI0Ea2BK7fBwAX0k=
+			</data>
 			<key>hash2</key>
 			<data>
 			09abBpdzy8PKGgdkyXsPOHE2y4jbGsITfeofpEikPNc=
@@ -387,6 +487,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			vPwPz6KTXE0E32Pojutf0Lz1kho=
+			</data>
 			<key>hash2</key>
 			<data>
 			aCZs5xEGIpwsdr00JAk11nLwRF/MIwrV9Nb8ntvcX/E=
@@ -394,6 +498,10 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/_CodeSignature/CodeResources</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NT2AvyIs8Rj9S3/XDVwTivBKqko=
+			</data>
 			<key>hash2</key>
 			<data>
 			IJlU5grZIN9ua8mKHe7ZzkoTz8vkRxil6rIDMRYUwdI=
@@ -401,13 +509,21 @@
 		</dict>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0xhAZHedkBVRvUgezfxHEX61BDs=
+			</data>
 			<key>hash2</key>
 			<data>
-			3l3T4yqtOLcc1LBpWLpx9GsYoxWil3xFzpujbPI/+f0=
+			LKcLU4xYsAGLcw18NGacjIqEtLxtN7VHY8G76dKtoJk=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			96Uw5p4tLIiDbN11Du0p0c5xqE8=
+			</data>
 			<key>hash2</key>
 			<data>
 			8A8lZEpijnOMFV9JPQcq8UPyU8v5nwi/SCnL5dT0NRw=
@@ -415,6 +531,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KBTvwnLXsoe2PIlGUwZzMUOp5k8=
+			</data>
 			<key>hash2</key>
 			<data>
 			0xIT5PJf+LIXgeeG/YnO3lkX75s/vlC99V1IOvE27e0=
@@ -422,6 +542,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fW6O7h6Je5DNmNrbOeCGmAixyLI=
+			</data>
 			<key>hash2</key>
 			<data>
 			Y8oL2DjlGXdImtrbgKC+AWxaoLe2kPvDiaBkWqzP5P8=
@@ -429,6 +553,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			U+JkGZqJfVZtzH2EYjDDWZ6ZFUE=
+			</data>
 			<key>hash2</key>
 			<data>
 			Lkrc42uoKUKWSIJiLmjKys6b+LQT4HYksSzDkulXzx0=
@@ -436,6 +564,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			trY9XrpS4DxHzs3eHljZHIJNHrI=
+			</data>
 			<key>hash2</key>
 			<data>
 			DtXIUoL5QNFKVyOmwK8F+cKr1Okww8TwvloHI203QRE=
@@ -443,6 +575,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tq7fRawRQ359i/c0FEVvpQ6Oee0=
+			</data>
 			<key>hash2</key>
 			<data>
 			8K2wTXshtNmImTKmLw7/En7tsn0vhTQqkBRBU8oLgbE=
@@ -450,6 +586,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			DP+qJf0czliL6znGLVx90ASNzCY=
+			</data>
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
@@ -457,6 +597,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oseYQ/EQxo7JsNpdNgo4YVLh7a4=
+			</data>
 			<key>hash2</key>
 			<data>
 			TyXMFC6WtfIbMjbSFmwuZikgaB8dI5QtJRDpjIr27Nw=
@@ -464,6 +608,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PaAh9+zFw3Is4fLMn5iQsLG5M34=
+			</data>
 			<key>hash2</key>
 			<data>
 			hBYLwMSnSVF+Yvk8ssaKuP9J3lcfcOttFgJUypoHicA=
@@ -471,6 +619,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VCp0NyrYJWQnYbGaxVv0Vzy0IeA=
+			</data>
 			<key>hash2</key>
 			<data>
 			ekzwnGrkp1gUTUK/NbmiapWYfjxYQdDcORCVaYKZ2as=
@@ -478,6 +630,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AHaxev+fV4YGoIDboAUFlxfISmY=
+			</data>
 			<key>hash2</key>
 			<data>
 			OvuTDu3I0dQENEgCgdO16M7EwwTlLTT9/IqVCDQLtxk=
@@ -485,6 +641,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Rd53RFFpKHZNvbiDaE2p4XxjbY0=
+			</data>
 			<key>hash2</key>
 			<data>
 			IVEbvtJxoKkri5ORjg+I9u+70RWjbRVV8GHO4TH2qzw=
@@ -492,6 +652,10 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			RxtbTN3LjpFChp3tmniX3KD+dsE=
+			</data>
 			<key>hash2</key>
 			<data>
 			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
@@ -499,6 +663,10 @@
 		</dict>
 		<key>Headers/self_ios_sdk-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			sOzexoMsIZojoCG+9nECsezTda8=
+			</data>
 			<key>hash2</key>
 			<data>
 			Mb/UVjJUEHm1M7GM14FA5eum5gi8l2QTMipZYOUoUos=
@@ -506,6 +674,10 @@
 		</dict>
 		<key>Headers/self_ios_sdk.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fh7eXcE2OpwcraHXlCpI5LDwrvw=
+			</data>
 			<key>hash2</key>
 			<data>
 			X7g97W3bBRoEOZ9ObVediqYh4UiRtutNgV+bwnlbnJ8=
@@ -513,6 +685,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			oiXxM7HxeqeWcenJ1lw9uQ1LeuQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			vXlPCyr24dM2T7GHBv1ixPiElAZREoA+ks9bnyAv9BI=
@@ -520,6 +696,10 @@
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			7sxE4+Yu5dVTvS4MicSwH/WQTZw=
+			</data>
 			<key>hash2</key>
 			<data>
 			QQie/OxSYq/CKMFv/NNcYarMVoCgkqREruqgO3Ktyco=
@@ -527,6 +707,10 @@
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			</data>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
@@ -534,6 +718,10 @@
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4GuYZxew6YzARBkyiuamVKwIJRM=
+			</data>
 			<key>hash2</key>
 			<data>
 			3QOxh59fDNfdIz71BfFIWVEagOIdcu2D7xo0PEQ4EfA=
@@ -541,6 +729,10 @@
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e+2+cyj4oZ5ZsY/2+C0b/DrYzaQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			TQBZmgGWQBfumpDUg9O1A2A8zbPmuz6EAu1ys4hQYCc=
