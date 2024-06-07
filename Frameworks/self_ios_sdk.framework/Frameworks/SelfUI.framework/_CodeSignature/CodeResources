@@ -36,9 +36,37 @@
 		<data>
 		OlqUU+krBTWCYurFbOmoJOC651w=
 		</data>
+		<key>Headers/SelfUI-Swift.h</key>
+		<data>
+		Bk7YQ73MUnMlL2jBZsub0A/jNDg=
+		</data>
+		<key>Headers/SelfUI.h</key>
+		<data>
+		cxSLY3fKrp7r5ywwatbVQQVu/j8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		a49dkH4fCfMAd+nX/5LHhDw3tB8=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		JLWcpfYSkecj3Q3rmMs7+MjkRo8=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		EtXoPMe1wmBMImJb0CD1XAtIyDo=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		fR7IFXIAvt1EYWlahNTeIgzrq+Q=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		brg6CDeLvvzxEfAZ7c4Ik/5/XSA=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -114,6 +142,55 @@
 			<key>hash2</key>
 			<data>
 			TnPHxJJhHzbePuxSDIMLuP2XC+ft/6ZwrlUxGZXbhWI=
+			</data>
+		</dict>
+		<key>Headers/SelfUI-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w+qlVB/LrdNGTokdjRde1C+6OKWzl1JdUb8Vt/99dGk=
+			</data>
+		</dict>
+		<key>Headers/SelfUI.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95mFctR771SAUhRW6+FYdoly6cM15eiKg/fKTaa4q40=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsFW7tn4300aysjRQGYRCPtUSxTmwJ2wIhpUkpD9GYk=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CveGclfRv/O5rUXyxpVjcJjXTsbaTO6Tpz1CDhKGh0w=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A+5OAiQT1w4QSIv9Pi5lgLsLyf2hvOI65y27UJzIuCw=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Gcdzo05UxLSoHLYiXFw4tf5vuptaRTIvoGBY98eBrw=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>

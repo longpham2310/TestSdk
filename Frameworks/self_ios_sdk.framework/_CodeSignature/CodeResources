@@ -36,17 +36,45 @@
 		<data>
 		OlqUU+krBTWCYurFbOmoJOC651w=
 		</data>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI-Swift.h</key>
+		<data>
+		Bk7YQ73MUnMlL2jBZsub0A/jNDg=
+		</data>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI.h</key>
+		<data>
+		cxSLY3fKrp7r5ywwatbVQQVu/j8=
+		</data>
 		<key>Frameworks/SelfUI.framework/Info.plist</key>
 		<data>
 		a49dkH4fCfMAd+nX/5LHhDw3tB8=
 		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		JLWcpfYSkecj3Q3rmMs7+MjkRo8=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		EtXoPMe1wmBMImJb0CD1XAtIyDo=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		fR7IFXIAvt1EYWlahNTeIgzrq+Q=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/module.modulemap</key>
+		<data>
+		brg6CDeLvvzxEfAZ7c4Ik/5/XSA=
+		</data>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<data>
-		8Q9+lVOI2hcZ6uJRfMOGGAiY0w4=
+		oHZ/dfoz7kWgtTacrffW8moZ9Ws=
 		</data>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AlCS9U6gLKgJejEkKSMe8zrzhMk=
+		v8ZWnvThihi88XPn7lqiDTjLNIM=
 		</data>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -91,7 +119,7 @@
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<data>
-		CFaOt8cipIEs0+ZwUJ1Fd+MQPAo=
+		NwFgFF1iNh45iTlciCAerpMH4cI=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -175,7 +203,7 @@
 		</data>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nsS+gK3RgPwA5PkC8H5AmCLUaaM=
+		e+2+cyj4oZ5ZsY/2+C0b/DrYzaQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -236,6 +264,20 @@
 			TnPHxJJhHzbePuxSDIMLuP2XC+ft/6ZwrlUxGZXbhWI=
 			</data>
 		</dict>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w+qlVB/LrdNGTokdjRde1C+6OKWzl1JdUb8Vt/99dGk=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95mFctR771SAUhRW6+FYdoly6cM15eiKg/fKTaa4q40=
+			</data>
+		</dict>
 		<key>Frameworks/SelfUI.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -243,18 +285,53 @@
 			2gtxtAveCTmWXJUL0S+Ofi6Z1GtJlHDC3qz7i9Ow5pk=
 			</data>
 		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsFW7tn4300aysjRQGYRCPtUSxTmwJ2wIhpUkpD9GYk=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CveGclfRv/O5rUXyxpVjcJjXTsbaTO6Tpz1CDhKGh0w=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A+5OAiQT1w4QSIv9Pi5lgLsLyf2hvOI65y27UJzIuCw=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Gcdzo05UxLSoHLYiXFw4tf5vuptaRTIvoGBY98eBrw=
+			</data>
+		</dict>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X8Qw90xFumRuyFUIVcYlaVgKvEEwvMB+WAPeW5Yqy6c=
+			ib2W1knXD5rz1/M3c4zWrZpfcSN/Q9o7v6GeeCJ2mqk=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwEUqVUZjno+zsaItJFSPClMhZEbNH55vf5BjUpItM0=
+			eWAesBek8NU2ajdd9nTJJBKIAkZxnVAf+W0XxQ0OYnI=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
@@ -326,7 +403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzcdqRRdreYvvqIQfgJXG/dNriT0HejoFDhqrPViXLQ=
+			3l3T4yqtOLcc1LBpWLpx9GsYoxWil3xFzpujbPI/+f0=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -466,7 +543,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TeVkHH2W8NzdcdLAOHWgp1zyktxiE5M+5qGJBGTUvJA=
+			TQBZmgGWQBfumpDUg9O1A2A8zbPmuz6EAu1ys4hQYCc=
 			</data>
 		</dict>
 	</dict>
