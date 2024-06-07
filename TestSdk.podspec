@@ -145,7 +145,7 @@ Pod::Spec.new do |spec|
   # end
 
   # spec.source                  = { :http => "https://github.com/AFNetworking/AFNetworking/releases/download/3.1.0/AFNetworking.framework.zip" }
-  # spec.static_framework = true
+  spec.static_framework = true
   spec.ios.vendored_frameworks = 'Frameworks/self_ios_sdk.framework', 'Frameworks/self_mobile_kmp.framework'
   spec.dependency 'GoogleMLKit/FaceDetection'
   spec.dependency 'NFCPassportReader', '~> 2.0.2'
