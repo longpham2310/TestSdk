@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		0ruIwSK+wEExetHFXHi0f/9QxuA=
+		NJ8kx0JkexpzSwyGc6aDeLwNoP8=
 		</data>
 		<key>Frameworks/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/SelfUI</key>
 		<data>
-		F4AOAkG4hKaKPKxl49Tf2iN+onc=
+		7ymo8i/9wUZBqnKuNgh6GGcrqqM=
 		</data>
 		<key>Frameworks/SelfUI.framework/Assets.car</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		0ruIwSK+wEExetHFXHi0f/9QxuA=
+		NJ8kx0JkexpzSwyGc6aDeLwNoP8=
 		</data>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<data>
-		F4AOAkG4hKaKPKxl49Tf2iN+onc=
+		AczoZAXnvJyV3RWHeNIw8IxiEqk=
 		</data>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<data>
-		vQSOgeeEggSM8y6V6nvnejs9k9o=
+		95po8MWBOJvZKWYN6nq3FH5oJKc=
 		</data>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -163,7 +163,7 @@
 		</data>
 		<key>Frameworks/_CodeSignature/CodeResources</key>
 		<data>
-		vQSOgeeEggSM8y6V6nvnejs9k9o=
+		95po8MWBOJvZKWYN6nq3FH5oJKc=
 		</data>
 		<key>Frameworks/en.lproj/Localizable.strings</key>
 		<dict>
@@ -204,7 +204,7 @@
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<data>
-		/2ZzWRTTGdIQnOAPCKGp2VK4CeE=
+		btDQb03Gq7QfmaOzva+0RTa178Y=
 		</data>
 		<key>Frameworks/start_scan.gif</key>
 		<data>
@@ -378,7 +378,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t8vGCyTSjCt43LFl/2sPjbW+hOsam2VP7NYzonQBvN4=
+			Wwo2MYGS0K8T+1uhxEn1ftkAKUJUIQZZXWMTrisojHw=
 			</data>
 		</dict>
 		<key>Frameworks/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -413,7 +413,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fzCgZsqeMVwOr2s7bDo38D+VK1txiXHWdG9mpmcG6A4=
+			FiLCWzuiTWvMzY5GEA4ej+hSpmu29OI30UR+HQh1g9I=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/Assets.car</key>
@@ -497,7 +497,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t8vGCyTSjCt43LFl/2sPjbW+hOsam2VP7NYzonQBvN4=
+			Wwo2MYGS0K8T+1uhxEn1ftkAKUJUIQZZXWMTrisojHw=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -532,14 +532,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fzCgZsqeMVwOr2s7bDo38D+VK1txiXHWdG9mpmcG6A4=
+			AVDnQVgO7/suYJ4R+IcAKdiKvzFrFSQhgSsJm6zPbVc=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			teJ29EfiQeydpQKgZeCNaRf/U1Hk6q6ga2yfz67RMQc=
+			OY8OG+Dw5prf17NNQlAycFcQ0+vGY7JMeBt1dHCxbqE=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
@@ -569,7 +569,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			teJ29EfiQeydpQKgZeCNaRf/U1Hk6q6ga2yfz67RMQc=
+			OY8OG+Dw5prf17NNQlAycFcQ0+vGY7JMeBt1dHCxbqE=
 			</data>
 		</dict>
 		<key>Frameworks/en.lproj/Localizable.strings</key>
@@ -634,7 +634,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9JZVJYm8VVqLmG7ZgnE20UhvvoxQWCQfSFhYjnN2N2o=
+			9GIZe+Q7nDOMzA3yXiJEm+JEQ5aADBWk+R9WVl7weaI=
 			</data>
 		</dict>
 		<key>Frameworks/start_scan.gif</key>
