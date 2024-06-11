@@ -1,57 +1,39 @@
 {
   "pins" : [
     {
-      "identity" : "google-mlkit-swiftpm",
+      "identity" : "flanimatedimage",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/d-date/google-mlkit-swiftpm",
+      "location" : "https://github.com/Flipboard/FLAnimatedImage.git",
       "state" : {
-        "revision" : "68b34cc1a4f090aeab61f1ef625a2edb1e753a16",
-        "version" : "3.2.1"
+        "branch" : "main",
+        "revision" : "58d70ad9bdfce4b555f3b9b1607e274fbb19f5cb"
       }
     },
     {
-      "identity" : "googledatatransport",
+      "identity" : "nfcpassportreader",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/google/GoogleDataTransport.git",
+      "location" : "https://github.com/AndyQ/NFCPassportReader.git",
       "state" : {
-        "revision" : "aae45a320fd0d11811820335b1eabc8753902a40",
-        "version" : "9.2.5"
+        "branch" : "main",
+        "revision" : "32cc702d9f66cd8370ba1f6d2e59ad7eae284f4a"
       }
     },
     {
-      "identity" : "googleutilities",
+      "identity" : "openssl",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/google/GoogleUtilities.git",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
       "state" : {
-        "revision" : "c38ce365d77b04a9a300c31061c5227589e5597b",
-        "version" : "7.11.5"
+        "revision" : "0faf71a188bcfdf0245cab42886b9b240ca71c52",
+        "version" : "1.1.2200"
       }
     },
     {
-      "identity" : "gtm-session-fetcher",
+      "identity" : "sss-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/google/gtm-session-fetcher.git",
+      "location" : "https://github.com/joinself/sss-swift.git",
       "state" : {
-        "revision" : "4e9bbf2808b8fee444e84a48f5f3c12641987d3e",
-        "version" : "1.7.2"
-      }
-    },
-    {
-      "identity" : "nanopb",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/firebase/nanopb.git",
-      "state" : {
-        "revision" : "819d0a2173aff699fb8c364b6fb906f7cdb1a692",
-        "version" : "2.30909.0"
-      }
-    },
-    {
-      "identity" : "promises",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/google/promises.git",
-      "state" : {
-        "revision" : "e70e889c0196c76d22759eb50d6a0270ca9f1d9e",
-        "version" : "2.3.1"
+        "branch" : "master",
+        "revision" : "70f4dc253f1ed3f787fc1ee7412d18aa9d3d0a50"
       }
     }
   ],

@@ -1,12 +1,39 @@
 {
   "pins" : [
     {
-      "identity" : "testsdk",
+      "identity" : "flanimatedimage",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:longpham2310/TestSdk.git",
+      "location" : "https://github.com/Flipboard/FLAnimatedImage.git",
       "state" : {
-        "revision" : "a45ff09307b8979a771c277399c1956695e19347",
-        "version" : "0.1.0"
+        "branch" : "main",
+        "revision" : "58d70ad9bdfce4b555f3b9b1607e274fbb19f5cb"
+      }
+    },
+    {
+      "identity" : "nfcpassportreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AndyQ/NFCPassportReader.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "32cc702d9f66cd8370ba1f6d2e59ad7eae284f4a"
+      }
+    },
+    {
+      "identity" : "openssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
+      "state" : {
+        "revision" : "0faf71a188bcfdf0245cab42886b9b240ca71c52",
+        "version" : "1.1.2200"
+      }
+    },
+    {
+      "identity" : "sss-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joinself/sss-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "70f4dc253f1ed3f787fc1ee7412d18aa9d3d0a50"
       }
     }
   ],

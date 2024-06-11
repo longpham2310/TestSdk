@@ -22,7 +22,8 @@ struct ContentView: View {
     }
     
     func foo() {
-//        MyTestSdk.sayHello()
+        
+        MyTestSdk.sayHello()
 //        DemoSdk.sayHello()
         
 //        SelfSDK.initialize()
