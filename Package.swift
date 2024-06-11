@@ -12,7 +12,9 @@ let package = Package(
             targets: ["TestSdk", "self_ios_sdk"]),
     ],
     dependencies:  [
-        .package(url: "https://github.com/d-date/google-mlkit-swiftpm", from: "3.2.1")
+//        .package(url: "https://github.com/d-date/google-mlkit-swiftpm", from: "3.2.1")
+        .package(url: "https://github.com/AndyQ/NFCPassportReader.git")
+        .package(url: "https://github.com/joinself/sss-swift.git")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -26,7 +28,7 @@ let package = Package(
 //        ),
             .binaryTarget(
                 name: "self_ios_sdk",
-                path: "self_ios_sdk.xcframework"
+                path: "self_ios_sdk.framework"
             ),
         .testTarget(
             name: "TestSdkTests",

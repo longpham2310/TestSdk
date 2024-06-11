@@ -6,8 +6,8 @@
 //
 
 import SwiftUI
-import TestSdk
-import self_ios_sdk
+//import TestSdk
+//import self_ios_sdk
 import DemoSdk
 
 struct ContentView: View {
