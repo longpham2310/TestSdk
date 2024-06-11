@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/SelfUI.framework/Assets.car</key>
 		<data>
-		2wSj3mOK4bCtkNdpxsnhx5Ea6H4=
+		allndlvDY0+srGwXS/w16/CuUwg=
 		</data>
 		<key>Frameworks/SelfUI.framework/Barlow-Black.ttf</key>
 		<data>
@@ -36,17 +36,53 @@
 		<data>
 		OlqUU+krBTWCYurFbOmoJOC651w=
 		</data>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI-Swift.h</key>
+		<data>
+		Bk7YQ73MUnMlL2jBZsub0A/jNDg=
+		</data>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI.h</key>
+		<data>
+		cxSLY3fKrp7r5ywwatbVQQVu/j8=
+		</data>
 		<key>Frameworks/SelfUI.framework/Info.plist</key>
 		<data>
 		a49dkH4fCfMAd+nX/5LHhDw3tB8=
 		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		BbXRrTkyD1a+CxWcAm1k7SYzGSk=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		msh+hpwUXo/9zOWA9XSrzdUkWW8=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		r245KAkLX2zeLmED7nUsu4neImA=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		EtXoPMe1wmBMImJb0CD1XAtIyDo=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		r245KAkLX2zeLmED7nUsu4neImA=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		UtOZ+FVyASMjDBMMTvhpihXpdZc=
+		</data>
+		<key>Frameworks/SelfUI.framework/Modules/module.modulemap</key>
+		<data>
+		brg6CDeLvvzxEfAZ7c4Ik/5/XSA=
+		</data>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<data>
-		TRFyRUpYBgIbRmEspjForMwN2m0=
+		7/7vopH7WFuWfwoGnv4bIcOnqZU=
 		</data>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8XMScUiHSErdN7hyziCkLk1jW30=
+		/eqdVagiNL6rrrlBLhssfhtBZzI=
 		</data>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -91,7 +127,7 @@
 		</data>
 		<key>Frameworks/self_mobile_kmp.framework/self_mobile_kmp</key>
 		<data>
-		9VLdMm4IzywVE4/nvJbC8ew8K/Q=
+		HclIyy2lEGVEkX2XxdTBSipOoxo=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -147,7 +183,7 @@
 		</data>
 		<key>Headers/self_ios_sdk-Swift.h</key>
 		<data>
-		rOlYQTRA36fAv13jk8YoQs9c8+A=
+		sOzexoMsIZojoCG+9nECsezTda8=
 		</data>
 		<key>Headers/self_ios_sdk.h</key>
 		<data>
@@ -161,25 +197,21 @@
 		<data>
 		oiXxM7HxeqeWcenJ1lw9uQ1LeuQ=
 		</data>
+		<key>Modules/self_ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		7sxE4+Yu5dVTvS4MicSwH/WQTZw=
+		</data>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Hw9hljg7U22mZM/epMS51BJ4aQ0=
-		</data>
-		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		13jk+dsFzoQuhwGpyixt7h0plng=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qP3cbtVh9sU06kGTLjmdNpQd27Y=
-		</data>
-		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		13jk+dsFzoQuhwGpyixt7h0plng=
+		4GuYZxew6YzARBkyiuamVKwIJRM=
 		</data>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/YBDWdwK1X/KJQAlOt8PJOXXcbo=
+		dInwiGKTKJPSn0H7y+KhNUy+F+8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -188,7 +220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XixDroh3ikOF9Y8T3QryLP4AOEV2nt4GCIAlTUxBAiY=
+			iTw4fsc3Ksr+CH23UHKlTaLlw8vVPymog5UJp0F7nxY=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/Barlow-Black.ttf</key>
@@ -240,6 +272,20 @@
 			TnPHxJJhHzbePuxSDIMLuP2XC+ft/6ZwrlUxGZXbhWI=
 			</data>
 		</dict>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w+qlVB/LrdNGTokdjRde1C+6OKWzl1JdUb8Vt/99dGk=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Headers/SelfUI.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95mFctR771SAUhRW6+FYdoly6cM15eiKg/fKTaa4q40=
+			</data>
+		</dict>
 		<key>Frameworks/SelfUI.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -247,18 +293,67 @@
 			2gtxtAveCTmWXJUL0S+Ofi6Z1GtJlHDC3qz7i9Ow5pk=
 			</data>
 		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbxXJNcgQILuPjoVoP/Hhm0uN7lZgaTKTZcKq5PplbU=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4JiuiYvExnSYV7FWjBvHsEQVf+z06IwEVfItuoO2wcc=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9KeKmKvO/cvTOe3lRkSBoCOID1u5JmpNXsTou4kyaMs=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CveGclfRv/O5rUXyxpVjcJjXTsbaTO6Tpz1CDhKGh0w=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9KeKmKvO/cvTOe3lRkSBoCOID1u5JmpNXsTou4kyaMs=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FAJcYxtew5CqQ5oswRfrVJ6t6iqqtF/WkTH7E12Qvk0=
+			</data>
+		</dict>
+		<key>Frameworks/SelfUI.framework/Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Gcdzo05UxLSoHLYiXFw4tf5vuptaRTIvoGBY98eBrw=
+			</data>
+		</dict>
 		<key>Frameworks/SelfUI.framework/SelfUI</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJwWwGHuz/F4DR+B71QhJxSrY/wr2g5JCFO8wJUJvc0=
+			I+sh0pM+9B3Gx9lJRJbYgTqTgpyq44fv3+fmY7quSX8=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			250R5OAklzTBKm2q+LKab0kg/A1sgGLz1Ga9hsyRevs=
+			fyCZ+WSzXq6YM25QDo++javdNQ6xciPSsTNUCjrSvrQ=
 			</data>
 		</dict>
 		<key>Frameworks/SelfUI.framework/en.lproj/Localizable.strings</key>
@@ -330,7 +425,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hm7y+/MsemN8S7yODAqpgnGxjmSZ/20Dsh1u7uYXIxc=
+			mbyunyzZhf8lbZP6fDcnxVzQho/f1cQYWn9bdMJvRL4=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -428,7 +523,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g+DDt3uUDU/+zJGmhodWk3XGWcaKI6kzz02y+TW1dpA=
+			Mb/UVjJUEHm1M7GM14FA5eum5gi8l2QTMipZYOUoUos=
 			</data>
 		</dict>
 		<key>Headers/self_ios_sdk.h</key>
@@ -445,39 +540,32 @@
 			vXlPCyr24dM2T7GHBv1ixPiElAZREoA+ks9bnyAv9BI=
 			</data>
 		</dict>
+		<key>Modules/self_ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QQie/OxSYq/CKMFv/NNcYarMVoCgkqREruqgO3Ktyco=
+			</data>
+		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27zOQXQ1+Iby5Pz23Q01ZmfGzd09LIl/apP29s0SHwU=
-			</data>
-		</dict>
-		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0D8Bvc0Ulv+Cx/G1pAPkTd+BfFpR6aJ6bn7586NL4Go=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvaFVoeK/rj2e/xjdFWssrivy7oaqb+yuK1jdZoRUYo=
-			</data>
-		</dict>
-		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0D8Bvc0Ulv+Cx/G1pAPkTd+BfFpR6aJ6bn7586NL4Go=
+			3QOxh59fDNfdIz71BfFIWVEagOIdcu2D7xo0PEQ4EfA=
 			</data>
 		</dict>
 		<key>Modules/self_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HXW13f9wuHkICGkBfqo07UwA9WEEV3Ooz+DKGWdOBY=
+			rcCR17HRLXYfGJIUA1A1GEEpEioBTtkcHBJiU3k7t9U=
 			</data>
 		</dict>
 	</dict>

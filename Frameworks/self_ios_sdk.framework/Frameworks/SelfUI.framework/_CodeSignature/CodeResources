@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		2wSj3mOK4bCtkNdpxsnhx5Ea6H4=
+		allndlvDY0+srGwXS/w16/CuUwg=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -36,9 +36,45 @@
 		<data>
 		OlqUU+krBTWCYurFbOmoJOC651w=
 		</data>
+		<key>Headers/SelfUI-Swift.h</key>
+		<data>
+		Bk7YQ73MUnMlL2jBZsub0A/jNDg=
+		</data>
+		<key>Headers/SelfUI.h</key>
+		<data>
+		cxSLY3fKrp7r5ywwatbVQQVu/j8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		a49dkH4fCfMAd+nX/5LHhDw3tB8=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		BbXRrTkyD1a+CxWcAm1k7SYzGSk=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		msh+hpwUXo/9zOWA9XSrzdUkWW8=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		r245KAkLX2zeLmED7nUsu4neImA=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		EtXoPMe1wmBMImJb0CD1XAtIyDo=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		r245KAkLX2zeLmED7nUsu4neImA=
+		</data>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		UtOZ+FVyASMjDBMMTvhpihXpdZc=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		brg6CDeLvvzxEfAZ7c4Ik/5/XSA=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -64,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XixDroh3ikOF9Y8T3QryLP4AOEV2nt4GCIAlTUxBAiY=
+			iTw4fsc3Ksr+CH23UHKlTaLlw8vVPymog5UJp0F7nxY=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -114,6 +150,69 @@
 			<key>hash2</key>
 			<data>
 			TnPHxJJhHzbePuxSDIMLuP2XC+ft/6ZwrlUxGZXbhWI=
+			</data>
+		</dict>
+		<key>Headers/SelfUI-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w+qlVB/LrdNGTokdjRde1C+6OKWzl1JdUb8Vt/99dGk=
+			</data>
+		</dict>
+		<key>Headers/SelfUI.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95mFctR771SAUhRW6+FYdoly6cM15eiKg/fKTaa4q40=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbxXJNcgQILuPjoVoP/Hhm0uN7lZgaTKTZcKq5PplbU=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4JiuiYvExnSYV7FWjBvHsEQVf+z06IwEVfItuoO2wcc=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9KeKmKvO/cvTOe3lRkSBoCOID1u5JmpNXsTou4kyaMs=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CveGclfRv/O5rUXyxpVjcJjXTsbaTO6Tpz1CDhKGh0w=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9KeKmKvO/cvTOe3lRkSBoCOID1u5JmpNXsTou4kyaMs=
+			</data>
+		</dict>
+		<key>Modules/SelfUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FAJcYxtew5CqQ5oswRfrVJ6t6iqqtF/WkTH7E12Qvk0=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Gcdzo05UxLSoHLYiXFw4tf5vuptaRTIvoGBY98eBrw=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>

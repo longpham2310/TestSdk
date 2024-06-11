@@ -329,7 +329,6 @@ SWIFT_CLASS("_TtC12self_ios_sdk13LivenessCheck")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-
 @class AVCaptureOutput;
 @class AVCaptureConnection;
 
