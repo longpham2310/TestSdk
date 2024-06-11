@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63415ED52C1845F500367C5E /* TestSdk in Frameworks */ = {isa = PBXBuildFile; productRef = 63415ED42C1845F500367C5E /* TestSdk */; };
 		63B587852BA3F6AF003F1421 /* DemoSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 63B587842BA3F6AF003F1421 /* DemoSdk.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63B5878A2BA3F6F4003F1421 /* DemoSdk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B587892BA3F6F4003F1421 /* DemoSdk.swift */; };
 		63C836072AF20D5B0013CF4D /* ExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C836062AF20D5B0013CF4D /* ExampleApp.swift */; };
@@ -50,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63415ED52C1845F500367C5E /* TestSdk in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,6 +159,7 @@
 			);
 			name = Example;
 			packageProductDependencies = (
+				63415ED42C1845F500367C5E /* TestSdk */,
 			);
 			productName = Example;
 			productReference = 63C836032AF20D5B0013CF4D /* Example.app */;
@@ -191,6 +194,7 @@
 			);
 			mainGroup = 63C835FA2AF20D5B0013CF4D;
 			packageReferences = (
+				63415ED32C1845F500367C5E /* XCRemoteSwiftPackageReference "TestSdk" */,
 			);
 			productRefGroup = 63C836042AF20D5B0013CF4D /* Products */;
 			projectDirPath = "";
@@ -525,6 +529,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		63415ED32C1845F500367C5E /* XCRemoteSwiftPackageReference "TestSdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:longpham2310/TestSdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		63415ED42C1845F500367C5E /* TestSdk */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 63415ED32C1845F500367C5E /* XCRemoteSwiftPackageReference "TestSdk" */;
+			productName = TestSdk;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 63C835FB2AF20D5B0013CF4D /* Project object */;
 }

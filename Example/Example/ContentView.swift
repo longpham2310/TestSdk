@@ -6,9 +6,9 @@
 //
 
 import SwiftUI
-//import TestSdk
+import TestSdk
 //import self_ios_sdk
-import DemoSdk
+//import DemoSdk
 
 struct ContentView: View {
     var body: some View {
@@ -22,10 +22,10 @@ struct ContentView: View {
     }
     
     func foo() {
-        MyTestSdk.sayHello()
-        DemoSdk.sayHello()
+//        MyTestSdk.sayHello()
+//        DemoSdk.sayHello()
         
-        SelfSDK.initialize()
+//        SelfSDK.initialize()
     }
 }
 

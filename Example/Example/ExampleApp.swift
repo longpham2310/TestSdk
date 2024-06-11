@@ -6,13 +6,14 @@
 //
 
 import SwiftUI
-import self_ios_sdk
+import TestSdk
 
 @main
 struct ExampleApp: App {
     
     init () {
-        SelfSDK.initialize()
+//        SelfSDK.initialize()
+        MyTestSdk.sayHello()
     }
     
     var body: some Scene {

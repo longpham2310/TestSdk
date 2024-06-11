@@ -13,8 +13,8 @@ let package = Package(
     ],
     dependencies:  [
 //        .package(url: "https://github.com/d-date/google-mlkit-swiftpm", from: "3.2.1")
-        .package(url: "https://github.com/AndyQ/NFCPassportReader.git")
-        .package(url: "https://github.com/joinself/sss-swift.git")
+        .package(url: "https://github.com/AndyQ/NFCPassportReader.git", branch: "main"),
+        .package(url: "https://github.com/joinself/sss-swift.git", branch: "master")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

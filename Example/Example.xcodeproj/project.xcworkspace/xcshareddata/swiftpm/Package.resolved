@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "testsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:longpham2310/TestSdk.git",
+      "state" : {
+        "revision" : "a45ff09307b8979a771c277399c1956695e19347",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
